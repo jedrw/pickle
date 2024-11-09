@@ -1,4 +1,4 @@
-module github.com/lupinelab/pickle
+module github.com/jedrw/pickle
 
 go 1.20
 
